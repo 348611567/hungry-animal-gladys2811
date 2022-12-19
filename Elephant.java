@@ -53,6 +53,12 @@ public class Elephant extends Actor
         }
     }
     
+    public void act()
+    {
+        // Add your action code here.
+        move();
+    }
+    
     public void move()
     {
         int x = getX();

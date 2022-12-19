@@ -33,30 +33,11 @@ dependency8.type=UsesDependency
 dependency9.from=Elephant
 dependency9.to=MyWorld
 dependency9.type=UsesDependency
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=1090
-editor.fx.0.y=172
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
+editor.fx.0.height=830
+editor.fx.0.width=780
+editor.fx.0.x=761
 editor.fx.0.y=0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-height=1056
+height=830
 package.numDependencies=10
 package.numTargets=6
 project.charset=UTF-8
@@ -116,7 +97,7 @@ target6.width=120
 target6.x=0
 target6.y=0
 version=3.0.0
-width=1936
+width=780
 world.lastInstantiated=TitleScreen
 xPosition=0
 yPosition=0
